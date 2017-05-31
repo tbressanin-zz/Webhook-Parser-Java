@@ -1,3 +1,8 @@
+-> Executar a classe principal JavaApp.
+
+
+
+
 **Task
 O arquivo de log em anexo contém informações de envio de 
 webhooks no format:
