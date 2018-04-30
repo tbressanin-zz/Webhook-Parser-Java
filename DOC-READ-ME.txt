@@ -1,7 +1,7 @@
 level=info response_body="" request_to"<url>" 
 response_headers= response_status="<code>"
 
-Example of use: We will parsae a brute data to show the following output data:
+Example of use: We will parse a brute data to show the following output data:
 
 - Top (n) URL Calls, following its ammount. 
 - Top (n) of http response code .
