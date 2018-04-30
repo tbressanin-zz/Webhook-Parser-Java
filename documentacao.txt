@@ -8,10 +8,12 @@ Example of use: We will parsae a brute data to show the following output data:
 
 Sample Output:
 
-https://woodenoyster.com.br - 100
-https://grotesquemoon.de - 99
-https://notoriouslonesome.com - 90
+URL Calls:
+--- https://eagerhaystack.com - 750
+--- https://surrealostrich.com.br - 734
+--- https://grimpottery.net.br - 732
 
-200 - 100
-201 - 99
-404 - 41
+Response Code
+--- 404 - 1474
+--- 503 - 1451
+--- 400 - 1440
